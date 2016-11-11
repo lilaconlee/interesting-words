@@ -1,7 +1,5 @@
 from bs4 import BeautifulSoup
 import json
-import os
-import urllib
 import urllib2
 import string
 
