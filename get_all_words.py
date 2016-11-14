@@ -1,7 +1,7 @@
 import json
 
 filename = "words.json"
-dirs = ["oxford-dictionaries", "phrontistery", "scorpio-tales"]
+dirs = ["oxford-dictionaries", "phrontistery", "scorpio-tales", "personal-stash"]
 entries = {}
 
 for dir in dirs:
